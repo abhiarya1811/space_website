@@ -1,1 +1,1 @@
-this is a sample website that shows soace related information.
+this is a sample website that shows space related information.
